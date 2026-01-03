@@ -1,0 +1,39 @@
+body {
+    background-color: #ebdcec;
+    font-family: Arial, sans-serif;
+    
+}
+
+#form-box {
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    margin: 50px auto;
+    border: 2px solid #ff00e6;
+    box-shadow:0 0 60px #ff00e6;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.input-box {
+    width: 94%;
+    padding: 10px;
+    margin-bottom: 1px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    background-color: #ffffff;
+    color: #ff00e6;
+    border-color: #ff00e6;
+    box-shadow:0 0 10px #ff00e6;
+    text-align: center
+
+}
+
+.btn {
+    background-color: #ff00e6;
+    color: #ffffff;
+    padding: 10px 126px;
+    border: none;
+    border-radius: 50px;
+    font-weight: bolder;
+    font-size: large;
+}
